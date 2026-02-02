@@ -131,13 +131,7 @@ python pathological_preproc_novel.py [options]
 
 ---
 
-## Outputs in File System
 
-The processed results are stored in:
-
-```
-C:\Users\haris\Downloads\project phase-1\training_dataset\pathological
-```
 
 Files include:
 
