@@ -37,7 +37,9 @@ This project addresses these challenges by introducing robust preprocessing pipe
 
 ---
 5-year Survival F1-score: 0.80
+
 2-year Recurrence F1-score: 0.95
+
 Average F1-score: 0.875
 
 ## Results and Impact
