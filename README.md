@@ -3,11 +3,6 @@
 Small description about the project like one below
 HCAT-FusionNet is a multimodal deep learning framework designed for holistic healthcare outcome prediction, focusing on 5-year survival and 2-year recurrence in head and neck cancer patients using heterogeneous clinical and biomedical data.
 
-
-## Preprocessed_h5_files and Model Weights
-* **Huggingface**: [H5](https://huggingface.co/ragunath-ravi/hcat-fusionnet/tree/main/preprocessed_h5_files)
-* **HuggingFace**: [Model Weights](https://huggingface.co/ragunath-ravi/hcat-fusionnet/tree/main/model/hcat_checkpoints_v_improved)
-
 ---
 
 ## About
