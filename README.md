@@ -1,13 +1,13 @@
-##  HCAT-FusionNet: Multimodal Preprocessing and Fusion for Survival and Recurrence Prediction
+##  HAN-MAP : Multimodal AI System for Survival & Recurrence Prediction in Head & Neck Cancer
 
 Small description about the project like one below
-HCAT-FusionNet is a multimodal deep learning framework designed for holistic healthcare outcome prediction, focusing on 5-year survival and 2-year recurrence in head and neck cancer patients using heterogeneous clinical and biomedical data.
+HAN-MAP is a multimodal deep learning framework designed for holistic healthcare outcome prediction, focusing on 5-year survival and 2-year recurrence in head and neck cancer patients using heterogeneous clinical and biomedical data.
 
 ---
 
 ## About
 
-HCAT-FusionNet is developed as part of the Hancothon25 Challenge (MICCAI 2025) using the HANCOCK (Head and Neck Cancer Cohort) dataset. Modern oncology datasets are inherently multimodal, consisting of structured clinical records, pathology reports, free-text notes, histopathology images, and temporal blood test data. Traditional predictive models struggle to integrate such heterogeneous sources effectively.
+HAN-MAP is developed as part of the Hancothon25 Challenge (MICCAI 2025) using the HANCOCK (Head and Neck Cancer Cohort) dataset. Modern oncology datasets are inherently multimodal, consisting of structured clinical records, pathology reports, free-text notes, histopathology images, and temporal blood test data. Traditional predictive models struggle to integrate such heterogeneous sources effectively.
 
 This project addresses these challenges by introducing robust preprocessing pipelines, advanced imputation strategies, and a unified fusion framework. Each modality is encoded into standardized 512-dimensional embeddings using modality-specific encoders, including variational autoencoders and transformer-based architectures. Cross-modal attention mechanisms enable holistic learning across modalities, even in the presence of missing data, leading to accurate and robust survival and recurrence predictions.
 
@@ -42,7 +42,7 @@ Average F1-score: 0.875
 
 ## Results and Impact
 
-HCAT-FusionNet demonstrates strong predictive performance on complex multimodal oncology data, highlighting the effectiveness of cross-modal attention and uncertainty-aware fusion strategies. The framework improves robustness under missing modalities and enhances generalization across patient cohorts.
+HAN-MAP demonstrates strong predictive performance on complex multimodal oncology data, highlighting the effectiveness of cross-modal attention and uncertainty-aware fusion strategies. The framework improves robustness under missing modalities and enhances generalization across patient cohorts.
 
 This work contributes to precision oncology by enabling reliable outcome prediction that can support treatment planning, follow-up scheduling, and clinical decision-making. The modular design also provides a foundation for extending multimodal learning to other healthcare domains.
 
